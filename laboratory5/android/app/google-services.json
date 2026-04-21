@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475444103031",
+    "project_id": "picstoria-156",
+    "storage_bucket": "picstoria-156.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475444103031:android:23b7a65fb2eb494fcc8372",
+        "android_client_info": {
+          "package_name": "com.example.laboratory5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfY1jE5AqiD3sxgVjdqCp3_MIp7wJdsmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
